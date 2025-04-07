@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#4EC0CA" /> <!-- Màu nền -->
+    <corners android:radius="8dp" />  <!-- Các góc vuông (không quá tròn để tạo cảm giác pixel art) -->
+    <stroke
+        android:color="#FFFFFF"
+    android:width="2dp" />   <!-- Độ dày viền -->
+</shape>
