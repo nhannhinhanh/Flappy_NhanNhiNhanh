@@ -1,1 +1,1 @@
-# flappythien
+# flappy
